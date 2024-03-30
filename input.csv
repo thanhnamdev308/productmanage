@@ -1,0 +1,10 @@
+# Category, ID, Quantity, Import Date(DDMMYYYY), Description, Expired Date(DDMMYYYY)
+Food, F0001, 10, 01022022, Fresh Meat, 04022022
+Drink, D0003, 10, 02022022, Oolong Tea, 02022022
+Food, F0003, 10, 03022022,Goat Milk, 03032022
+Drink, D0001, 10, 01022022, Wine, 03022025
+Utensil, U0002, 10, 05022022, Top Oven, 02072022
+Food, F0002, 10, 01022022,Spinach, 10022022
+Drink, D0002, 10, 09022022,Beer, 03022024
+Utensil, U0001, 10, 07022022,Big Glass, 02222022
+Utensil, U0003, 10, 10022022,Silver Spoon, 32072022
